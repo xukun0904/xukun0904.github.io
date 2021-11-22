@@ -81,13 +81,6 @@
   </url>
   
   <url>
-    <loc>https://xukun0904.github.io/tags/MyBatis-Plus/</loc>
-    <lastmod>2021-11-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xukun0904.github.io/tags/MariaDB/</loc>
     <lastmod>2021-11-22</lastmod>
     <changefreq>daily</changefreq>
@@ -103,6 +96,13 @@
   
   <url>
     <loc>https://xukun0904.github.io/tags/Redis/</loc>
+    <lastmod>2021-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xukun0904.github.io/tags/MyBatis-Plus/</loc>
     <lastmod>2021-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -125,6 +125,13 @@
   </url>
   
   <url>
+    <loc>https://xukun0904.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
+    <lastmod>2021-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xukun0904.github.io/categories/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2021-11-22</lastmod>
     <changefreq>daily</changefreq>
@@ -139,13 +146,6 @@
   </url>
   
   <url>
-    <loc>https://xukun0904.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
-    <lastmod>2021-11-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xukun0904.github.io/categories/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2021-11-22</lastmod>
     <changefreq>daily</changefreq>
@@ -153,14 +153,14 @@
   </url>
   
   <url>
-    <loc>https://xukun0904.github.io/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E7%AC%94/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://xukun0904.github.io/categories/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2021-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xukun0904.github.io/categories/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/%E5%90%8E%E7%AB%AF/</loc>
+    <loc>https://xukun0904.github.io/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E7%AC%94/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2021-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
